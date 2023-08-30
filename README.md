@@ -7,6 +7,6 @@
 - 📫 How to reach me , meu e-mail leonardo.cardoso.soares@escola.pr.gov.b.r
 
 <!---
-Soares-Leonardo-Cardoso/Soares-Leonardo-Cardoso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Soares-Leonardo-Cardoso/Soares-Leonardo-Cardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
